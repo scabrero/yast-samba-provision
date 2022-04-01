@@ -60,6 +60,5 @@ Directory Domain Controller.
 %{yast_moduledir}
 %{yast_desktopdir}
 %{yast_metainfodir}
-%doc %{yast_docdir}
 
 %changelog
